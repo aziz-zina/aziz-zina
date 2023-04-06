@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<!--
-**aziz-zina/aziz-zina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2>
+  I am a Fullstack developer with a small experience. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
+  </h2>
+</div>
+- 🌱 I’m currently a computer science student in Tunisia
+- 👯 I’m looking to collaborate with anyone for a job offer or an internship
+- 📫 How to reach me:
+<br>
