@@ -4,11 +4,14 @@
 
 ---
 
+### :woman_technologist: About Me :
+
 <div align="center">
-  <h2>
-  I am a Fullstack developer with a small experience. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
-  </h2>
+  <h3>
+  I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a small experience. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
+  </h3>
 </div>
+
 - 🌱 I’m currently a computer science student in Tunisia. <br>
 - 👯 I’m looking to collaborate with anyone for a job offer or an internship.
 - 📫 How to reach me:
