@@ -8,7 +8,7 @@
 </div>  
   <hr>
   
-
+![](https://komarev.com/ghpvc/?username=aziz-zina&color=blueviolet)
 
 
 ### :woman_technologist: About Me :
