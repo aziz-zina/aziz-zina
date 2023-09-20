@@ -8,7 +8,7 @@
 </div>
 ---
 
-![](https://komarev.com/ghpvc/?username=aziz-zina&color=ff69b4)
+
 
 ### :woman_technologist: About Me :
 
