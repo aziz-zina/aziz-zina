@@ -6,8 +6,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-![](https://komarev.com/ghpvc/?username=aziz-zina&color=ff69b4)
 ---
+
+
+![](https://komarev.com/ghpvc/?username=aziz-zina&color=ff69b4)
 
 ### :woman_technologist: About Me :
 
