@@ -14,8 +14,8 @@
   <h3>
   I am a Junior Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
   </h3>
-  ![](https://komarev.com/ghpvc/?username=aziz-zina&color=ff69b4)
 </div>
+![](https://komarev.com/ghpvc/?username=aziz-zina&color=ff69b4)
 
 - 🌱 I’m currently a computer science student in Tunisia.
   
