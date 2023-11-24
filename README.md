@@ -43,7 +43,39 @@
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
 <code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
 <code><img height="27" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" title="nodejs"></code>
+<code><img height="27" src="https://img.shields.io/badge/Express.js-43853D?style=for-the-badge&logo=express.js&logoColor=white" alt="expressjs" title="expressjs"></code>
 <code><img height="27" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="ts"></code>
 <code><img height="27" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="angular"></code>
 <code><img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"></code>
 <code><img height="27" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" title="mongodb"></code>
+
+
+## 🔮 Tools:
+
+<code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
+
+
+
+###
+## ⚡ GitHub Stats & Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OussemaSahbeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaSahbeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+## 📈 GitHub Contribution Graph
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16">
+  </a>
+<br clear="both">
+
+## Listen with me in spotify
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />
+  </a>
+</div>
