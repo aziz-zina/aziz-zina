@@ -70,10 +70,3 @@
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=tokyo-night&radius=16">
   </a>
 <br clear="both">
-
-## Listen with me in spotify
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />
-  </a>
-</div>
