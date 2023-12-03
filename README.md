@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=aziz-zina&color=blueviolet)
 
 
-### :woman_technologist: About Me :
+###About Me :
 
 <div align="center">
   <h3>
