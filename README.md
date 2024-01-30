@@ -74,8 +74,8 @@
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-		<img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=dark&radius=16">
-	</a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+    <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=dark&radius=16">
+  </a>
 </div>
 <br clear="both">
