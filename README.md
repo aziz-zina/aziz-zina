@@ -19,13 +19,13 @@
   </h3>
 </div>
 
-- 🌱 I’m currently a computer science student in Tunisia.
+- 🔭 I’m currently a computer science student in Tunisia.
   
   
-- 👯 I’m looking to collaborate with anyone for a job offer or an internship.
+- 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
   
   
-- 📫 How to reach me:
+- 📫 How to reach me: aziz.zina2001@gmail.com
   
   <a href="https://www.linkedin.com/in/aziz-zina/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
@@ -56,14 +56,13 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000)](https://git.io/streak-stats)</div>
 
 ---
-### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=darkhide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=radical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=radical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
