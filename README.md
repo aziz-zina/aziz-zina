@@ -53,9 +53,13 @@
 <code><img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"></code>
 <code><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></code>
 
+---
 
-###
-## ⚡ GitHub Stats & Languages
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+### ⚡ GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
