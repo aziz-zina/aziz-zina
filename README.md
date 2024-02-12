@@ -1,3 +1,7 @@
+<p align="center" >
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aziz,+Zina+!&center=true&size=30">
+  </p>
+
 
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I am Aziz Zina.
