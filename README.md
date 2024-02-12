@@ -1,14 +1,9 @@
 <p align="center" >
   <div align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
   </div>
 </p>
-
-
-<div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I am Aziz Zina.
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
