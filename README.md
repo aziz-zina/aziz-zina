@@ -1,6 +1,9 @@
 <p align="center" >
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
-  </p>
+  <div>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
+  </div>
+</p>
 
 
 <div align="center">
