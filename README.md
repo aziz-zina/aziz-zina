@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
 </div>
 
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="500"/>
 </div>  
@@ -16,7 +17,7 @@
 
 <div align="center">
   <h3>
-  I am a Junior Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
+  I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
   </h3>
 </div>
 
