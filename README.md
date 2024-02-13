@@ -73,10 +73,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+---
+
 ### 📈 LeetCode Stats
 
 <div align="center">
-  [![aziz-zina's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)
+  <a href="https://github.com/JeremyTsaii/leetcode-stats">
+    <img src="https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Raspberry" alt="aziz-zina's LeetCode Stats">
+  </a>
 </div>
 
 ### 📈 GitHub Contribution Graph
