@@ -83,6 +83,8 @@
   </a>
 </div>
 
+---
+
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
