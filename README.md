@@ -75,7 +75,7 @@
 
 ### 📈 LeetCode Stats
 
-[![aziz-zina's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+<div align="center">[![aziz-zina's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Raspberry)](https://github.com/JeremyTsaii/leetcode-stats)</div>
 
 ### 📈 GitHub Contribution Graph
 
