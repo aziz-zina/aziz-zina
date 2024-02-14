@@ -79,7 +79,7 @@
 
 <div align="center">
   <a href="https://github.com/JeremyTsaii/leetcode-stats">
-    <img src="https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Raspberry" alt="aziz-zina's LeetCode Stats">
+    <img src="https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark" alt="aziz-zina's LeetCode Stats">
   </a>
 </div>
 
