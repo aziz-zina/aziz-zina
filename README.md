@@ -30,11 +30,11 @@
 - 📫 How to reach me: aziz.zina2001@gmail.com
   
   <a href="https://www.linkedin.com/in/aziz-zina/" style="text-decoration:none">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>;
   </a>
   
   <a href="https://www.facebook.com/profile.php?id=100085389934932" style="text-decoration:none">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>;
   </a>
   <br>
   <br>
