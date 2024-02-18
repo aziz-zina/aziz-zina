@@ -62,8 +62,7 @@
 <br>
 
 
-## :fire: My Stats :
-
+## :fire: Github Stats :
 
 <div align="center">
   <a href="https://git.io/streak-stats">
