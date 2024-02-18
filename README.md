@@ -35,9 +35,11 @@
   <a href="https://www.facebook.com/profile.php?id=100085389934932">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
   </a>
+  <br>
   
 
 ## 🚀 Languages:
+
 
 <div>
   <img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5">
@@ -55,21 +57,25 @@
   <img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
+<br>
 
 
 ## :fire: My Stats :
+
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </div>
+<br>
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br>
 
 
 ## 📈 LeetCode Stats
@@ -79,6 +85,7 @@
     <img src="https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark" alt="aziz-zina's LeetCode Stats">
   </a>
 </div>
+<br>
 
 
 
