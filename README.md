@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=aziz-zina&color=blueviolet)
 
 
-## About Me :
+## 👤 About Me :
 
 <div align="center">
   <h3>
@@ -35,7 +35,6 @@
   <a href="https://www.facebook.com/profile.php?id=100085389934932">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
   </a>
-  <br>
   <br>
   <br>
   
