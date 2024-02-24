@@ -63,12 +63,7 @@
 
 ## :fire: Github Stats :
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-</div>
-<br>
+
 
 
 <div align="center">
@@ -87,6 +82,13 @@
 </div>
 <br>
 
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
 
 
 ## 📈 GitHub Contribution Graph
