@@ -63,8 +63,12 @@
 
 ## :fire: Github Stats :
 
-
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -78,14 +82,6 @@
 <div align="center">
   <a href="https://github.com/JeremyTsaii/leetcode-stats">
     <img src="https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark" alt="aziz-zina's LeetCode Stats">
-  </a>
-</div>
-<br>
-
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
 </div>
 <br>
