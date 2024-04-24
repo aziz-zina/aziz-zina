@@ -41,7 +41,7 @@
 
 ## 🚀 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,angular,php,py,mongodb)](https://skillicons.dev)
 
 <br>
 
