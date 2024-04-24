@@ -41,10 +41,10 @@
 
 ## 🚀 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,angular,php,py,mongodb,androidstudio, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,angular,php,py,mongodb,androidstudio,express,java,mysql,nodejs,postgres,spring,tailwind,bootstrap)](https://skillicons.dev)
 
 ## ⚙️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman)](https://skillicons.dev)
 
 <br>
 
