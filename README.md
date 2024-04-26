@@ -42,18 +42,24 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 ## 📈 Github Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&theme=dark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"  />
+  </div>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
-  <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-    <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
-  </a>
-</div>
+  <div style="display: inline-block;">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+      <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
+    </a>
+  </div>
 </div>
 <br clear="both">
