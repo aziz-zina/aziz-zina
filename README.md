@@ -51,7 +51,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
   <div align="center">
-    <img height="200px" width="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
+    <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&card_width=300&area=true&hide_border=true&theme=dark&radius=16">
   </a>
 </div>
 </div>
