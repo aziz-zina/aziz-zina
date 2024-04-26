@@ -40,6 +40,9 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 
 ## 📈 Github Stats :
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -51,7 +54,6 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
     <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
   <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
     <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
   </a>
 </div>
