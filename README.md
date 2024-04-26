@@ -59,6 +59,6 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
  	</div>
 </div>
 
-
+<br>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph" />
 <br clear="both">
