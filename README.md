@@ -41,7 +41,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 ## 📈 Github Stats :
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
 
 <div align="center">
