@@ -47,9 +47,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
   
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img height="150px" width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
-</div>
+
 <br clear="both">
 
 
