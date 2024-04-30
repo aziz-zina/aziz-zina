@@ -41,10 +41,14 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 ## 📈 Github Stats :
 
+<div style="display: flex; justify-content: center;">
+  <img height="150px" width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-zina)](https://github.com/aziz-zina/aziz-zina)
+</div>
+
 <div style="display: flex;">
   <img height="150px" width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=450&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
-  
 </div>
 
 
