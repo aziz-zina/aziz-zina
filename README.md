@@ -41,16 +41,31 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 ## 📈 Github Stats :
 
-<div style="display: flex; justify-content: center;">
-  <img height="150px" width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&bg_color=000000&color=FFFFFF&line=38ff&point=ffffff&area=true&hide_border=true&theme=dark&radius=16">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-zina)](https://github.com/aziz-zina/aziz-zina)
+<div align="center">
+	<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak" /></a>
+	</div>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: flex;">
-  <img height="150px" width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=aziz-zina&theme=dark&background=000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&theme=dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=450&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph" />
+## 📈 Leetcode Stats
+
+<div align="center">
+	
+[![oussema_sahbeni's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 </div>
 
+
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+	 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=tokyo-night&radius=16">
+  </a>
+</div>
 
 <br clear="both">
 
