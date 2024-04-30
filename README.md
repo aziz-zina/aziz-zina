@@ -53,7 +53,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
   <br>
   <img style="margin-bottom: -20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=false" height="190" alt="languages graph"  />
   <br>
-  <div align="center">
+  <div align="center" style="border: 2px solid white;">
     
   [![Aziz Zina's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
   </div>
