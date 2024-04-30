@@ -63,7 +63,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 <div align="center">
 	 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=16&area_color=03AC13">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=16&area=true&area_color=03AC13">
   </a>
 </div>
 
