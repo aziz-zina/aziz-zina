@@ -52,7 +52,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 <td width="50%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <br>
-  <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=8&area=true">
+  <img style="margin-top: -20px;" height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=8&area=true">
   
   </td>
 </tr>
