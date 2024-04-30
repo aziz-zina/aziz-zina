@@ -40,32 +40,22 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 
 ## 📈 Github Stats :
-
-<div align="center">
-	<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak" /></a>
-	</div>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</td>
 
-## 📈 Leetcode Stats
+<td width="50%" align="center">
 
-<div align="center">
-	
-[![oussema_sahbeni's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aziz-zina&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-</div>
-
-
-
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-	 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-	  <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=8&area=true">
-  </a>
-</div>
+  <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=8&area=true">
+  
+  </td>
+</tr>
+</table>
 
 <br clear="both">
 
