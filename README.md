@@ -14,7 +14,7 @@
 
 
 ## 👤 About Me :
-I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge     and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
+I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge, forge and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
 - 🔭 I’m currently a computer science student in Tunisia.  
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 - 📫 How to reach me: aziz.zina2001@gmail.com
