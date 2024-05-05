@@ -18,9 +18,11 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 - 🔭 I’m currently a computer science student in Tunisia.  
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 - 📫 How to reach me: aziz.zina2001@gmail.com
+
   
-  <a href="https://www.linkedin.com/in/aziz-zina/" style="text-decoration:none">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  
+  <a href="aziz.zina2001@gmail.com" style="text-decoration:none">
+    <img height="27" src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" title="gmail">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100085389934932" style="text-decoration:none">
     <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>
