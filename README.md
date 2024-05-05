@@ -9,9 +9,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900" height="500"/>
 </div>  
 <br>
-  
-![](https://komarev.com/ghpvc/?username=aziz-zina&color=blueviolet)
-
 
 ## 👤 About Me :
 I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge, forge and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
@@ -20,8 +17,8 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 - 📫 How to reach me: aziz.zina2001@gmail.com
 
 <a href="mailto: aziz.zina2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aziz.zina2001@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/aziz-zina/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aziz-zina" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hijenhek&style=for-the-badge" alt="hijenhek" />
+<a href="https://www.linkedin.com/in/aziz-zina/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="aziz-zina" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=for-the-badge" alt="hijenhek" />
   <br>
   
 
