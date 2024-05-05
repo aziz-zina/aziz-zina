@@ -19,15 +19,9 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 - 📫 How to reach me: aziz.zina2001@gmail.com
 
-  
-  
-  <a href="aziz.zina2001@gmail.com" style="text-decoration:none">
-    <img height="27" src="https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" title="gmail">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100085389934932" style="text-decoration:none">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>
-  </a>
-  <br>
+<a href="mailto: aziz.zina2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aziz.zina2001@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/aziz-zina/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aziz-zina" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hijenhek&style=for-the-badge" alt="hijenhek" />
   <br>
   
 
