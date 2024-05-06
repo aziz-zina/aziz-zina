@@ -15,7 +15,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 - 🔭 I’m currently a computer science student in Tunisia.  
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 
-<img src="https://komarev.com/ghpvc/?username=aziz-zina&style=for-the-badge" alt="aziz-zina" />
+  <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=for-the-badge" alt="aziz-zina" />
 <a href="mailto: aziz.zina2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aziz.zina2001@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/aziz-zina/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-2b5bcc?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="aziz-zina" /></a>
   <br>
