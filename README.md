@@ -19,7 +19,6 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 <a href="https://www.linkedin.com/in/aziz-zina/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-2b5bcc?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="aziz-zina" /></a>
 <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=for-the-badge" alt="aziz-zina" />
   <br>
-  
 
 ## 🚀 Languages:
 
