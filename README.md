@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aziz+Zina+!&center=true&size=30">
@@ -11,7 +10,7 @@
 <br>
 
 ## 👤 About Me :
-I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learn new stuff and exited to enlarge, forge and ameliorate my knowledge in this field. I'm hardworking, inquisitive and I also like to work in a team. 
+I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learning new stuff, and excited to enlarge, forge, and ameliorate my knowledge in this field. I'm hardworking and inquisitive and I also like to work in a team. 
 - 🔭 I’m currently a computer science student in Tunisia.  
 - 🤝 I’m looking to collaborate with anyone for a job offer or an internship.
 
