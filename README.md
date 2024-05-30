@@ -56,7 +56,6 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
   </td>
 </tr>
 </table>
-
 <br clear="both">
 
 
