@@ -21,7 +21,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 ## 🚀 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,php,java,typescript,angular,nodejs,express,spring,mongodb,postgres,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,php,java,typescript,angular,nodejs,express,spring,mysql,mongodb,postgres,androidstudio,fastapi,tailwind)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure)](https://skillicons.dev)
