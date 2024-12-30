@@ -41,8 +41,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 <td width="50%" align="center">
   <br>
-  <img style="margin-bottom: -20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-zina&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=false" height="190" alt="languages graph"  />
-  
+<img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak"/>  
   </td>
 </tr>
 <tr>
