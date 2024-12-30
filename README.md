@@ -38,7 +38,6 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 </td>
 
 <td width="50%" align="center">
-  <br>
 <img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak"/>  
   </td>
 </tr>
