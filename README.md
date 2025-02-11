@@ -41,11 +41,7 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 <img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak"/>  
   </td>
 </tr>
-<tr>
-  <td colspan="2" align="center">
-      <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=aziz-zina&theme=github-compact&radius=8&area=true">
-  </td>
-</tr>
+
 </table>
 <br clear="both">
 
