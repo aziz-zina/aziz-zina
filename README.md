@@ -4,10 +4,6 @@
 </div>
 
 <br>
-<!-- <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="900" height="500"/>
-</div>   -->
-<br>
 
 ## 👤 About Me :
 I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learning new stuff, and excited to enlarge, forge, and ameliorate my knowledge in this field. I'm hardworking and inquisitive and I also like to work in a team. 
