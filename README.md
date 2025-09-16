@@ -26,19 +26,9 @@ I am a Junior Fullstack developer. I am passionate about the development of soft
 
 
 ## 📈 Github Stats :
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=370&disable_animations=false&theme=dark&locale=en&hide_border=false" height="190" alt="stats graph"  />
-</td>
-
-<td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=aziz-zina&theme=dark" alt="GitHub Streak"/>  
-  </td>
-</tr>
-
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=370&disable_animations=false&theme=dark&locale=en&hide_border=false" height="190" alt="stats graph"  />
+</div>
 <br clear="both">
 
 
