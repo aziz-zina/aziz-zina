@@ -1,26 +1,43 @@
-## 👤 About Me :
-<img src="https://komarev.com/ghpvc/?username=aziz-zina&style=for-the-badge" alt="aziz-zina" />
+### 👤 **About Me**
+<div>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-I am a Junior Fullstack developer. I am passionate about the development of software applications, I'm open to learning new stuff, and excited to enlarge, forge, and ameliorate my knowledge in this field. I'm hardworking and inquisitive and I also like to work in a team. 
-- 🔭 I’m currently a computer science student in Tunisia.  
-- 🤝 I’m looking to collaborate with anyone for a job offer.
-
-  <br>
-
-## 🚀 Languages:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,py,php,java,typescript,angular,nodejs,express,spring,mysql,mongodb,postgres,androidstudio,fastapi,tailwind)](https://skillicons.dev)
-
-## ⚙️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure)](https://skillicons.dev)
-
-<br>
-
-
-## 📈 Github Stats :
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&card_width=370&disable_animations=false&theme=dark&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=flat-square&label=Profile%20Views&color=0077B5" alt="Profile Views" />
 </div>
-<br clear="both">
 
+I am a **Computer Science Student** and aspiring **Fullstack Developer** based in **Tunisia**. I specialize in building robust web applications with a focus on backend architecture and modern frontend frameworks. 
 
+I am inquisitive, hardworking, and dedicated to continuous improvement. I thrive in collaborative team environments and am currently seeking opportunities to apply my skills in a professional setting.
+
+* 🔭 **Current Focus:** Advanced Fullstack Development (Spring Boot & Angular).
+* 🌱 **Learning:** Microservices architecture and Cloud deployment.
+* 🤝 **Open for:** Internships, Junior roles, and open-source collaborations.
+
+---
+
+### 💻 **Tech Stack**
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Database & Cloud** | **Tools & DevOps** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi,php,c" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure" /> | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,androidstudio" /> |
+
+</div>
+
+---
+
+### 📊 **GitHub Statistics**
+
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-zina&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true&card_width=400" alt="Stats Graph" />
+    </td>
+  </tr>
+</table>
