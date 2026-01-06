@@ -1,10 +1,9 @@
 ### 👤 **About Me**
 <div>
+  <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=flat-square&label=Profile%20Views&color=0077B5" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=flat-square&label=Profile%20Views&color=0077B5" alt="Profile Views" />
 </div>
 
 I am a **Computer Science Student** and aspiring **Fullstack Developer** based in **Tunisia**. I specialize in building robust web applications with a focus on backend architecture and modern frontend frameworks. 
