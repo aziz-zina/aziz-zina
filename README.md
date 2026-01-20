@@ -22,7 +22,7 @@ I am inquisitive, hardworking, and dedicated to continuous improvement. I thrive
 
 | **Frontend** | **Backend** | **Database & Cloud** | **Tools & DevOps** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,react,nextjs" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure" /> | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,rabbitmq" /> |
+| <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,react,nextjs" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws" /> | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,rabbitmq" /> |
 
 </div>
 
