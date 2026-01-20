@@ -6,13 +6,14 @@
   </a>
 </div>
 
-I am a **Computer Science Student** and aspiring **Fullstack Developer** based in **Tunisia**. I specialize in building robust web applications with a focus on backend architecture and modern frontend frameworks. 
+I am a **Software Engineer** at **Inspark** and an Engineering Student based in **Tunisia**. With 2+ years of experience, I specialize in architecting scalable web applications using **Spring Boot** and **Angular**, implementing **Hexagonal Architecture**, and integrating **AI-driven solutions**.
 
-I am inquisitive, hardworking, and dedicated to continuous improvement. I thrive in collaborative team environments and am currently seeking opportunities to apply my skills in a professional setting.
+I am inquisitive, hardworking, and passionate about automation, performance optimization, and clean code.
 
-* 🔭 **Current Focus:** Advanced Fullstack Development (Spring Boot & Angular).
-* 🌱 **Learning:** Microservices architecture and Cloud deployment.
-* 🤝 **Open for:** Internships, Junior roles, and open-source collaborations.
+*   🔭 **Current Role:** Building scalable fullstack applications and AI integrations (RAG, Chatbots) at **Inspark**.
+*   💡 **Specialties:** SaaS Multitenancy, Identity Management (Keycloak), and Cloud-ready architectures.
+*   🌱 **Currently Exploring:** Advanced Microservices patterns and Cloud deployment (AWS/Azure).
+*   🤝 **Open for:** Open-source collaborations and discussions on Software Architecture.
 
 ---
 
