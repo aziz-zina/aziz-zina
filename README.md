@@ -1,8 +1,11 @@
 ### 👤 **About Me**
 <div>
   <img src="https://komarev.com/ghpvc/?username=aziz-zina&style=flat-square&label=Profile%20Views&color=0077B5" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/aziz-zina/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
 
@@ -21,9 +24,35 @@ I am inquisitive, hardworking, and passionate about automation, performance opti
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Database & Cloud** | **Tools & DevOps** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,react,nextjs" /> | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws" /> | <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,rabbitmq" /> |
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,react,nextjs" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database & Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,azure,aws" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,rabbitmq,linux" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -31,13 +60,7 @@ I am inquisitive, hardworking, and passionate about automation, performance opti
 
 ### 📊 **GitHub Statistics**
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-zina&layout=compact&theme=dark&hide_border=true&card_width=400" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=aziz-zina&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true&card_width=400" alt="Stats Graph" />
-    </td>
-  </tr>
-</table>
+<div>
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api?username=aziz-zina&count_private=true&show_icons=true&theme=dark" />
+<img height=180 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aziz-zina&theme=dark&layout=compact" />
+</div>
