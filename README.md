@@ -7,10 +7,10 @@ I am a Software Engineer and an Engineering student based in Tunisia, with 2+ ye
 
 I enjoy solving complex problems, writing clean and maintainable code, and building performant, cloud-ready applications.
 
-🔭 Current Work: Building scalable full-stack systems and AI features (RAG, chatbots, automation)
-💡 Focus Areas: SaaS platforms, multi-tenancy, Keycloak-based authentication, and system design
-🌱 Learning: Advanced microservices, distributed systems, cloud deployment (AWS/Azure), and DevOps practices.
-🤝 Interests: Open-source contributions and software architecture discussions
+* 🔭 Current Work: Building scalable full-stack systems and AI features (RAG, chatbots, automation)
+* 💡 Focus Areas: SaaS platforms, multi-tenancy, Keycloak-based authentication, and system design
+* 🌱 Learning: Advanced microservices, distributed systems, cloud deployment (AWS/Azure), and DevOps practices.
+* 🤝 Interests: Open-source contributions and software architecture discussions
 
 ---
 
